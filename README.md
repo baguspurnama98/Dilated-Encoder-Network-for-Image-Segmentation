@@ -5,10 +5,7 @@ Python implementations of Dilated Encoder Network (DE-Net)<br/>
 
 ### Results
 <p align='center'>
-  <img src='result/table.png' height='450' width='640'/>
-<!--   <img src='result/ying/01.jpg' height='256' width='192'/>
-  <img src='testdata/03.jpg' height='256' width='192'/>
-  <img src='result/ying/03.jpg' height='256' width='192'/> -->
+  <img src='result/table2.png' height='450' width='640'/>
 </p>
 
 <p align='center'>
